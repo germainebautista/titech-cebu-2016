@@ -9,5 +9,6 @@ Day2 Focus on One issue / Lean Canvas / Solution- paper prototyping / reserch #2
 Day3 User experience video / Development.
 
 Day4 Final presentation (Pitch).
-
+　--> https://github.com/mrmt-c/titech-cebu-2016/wiki
+　
 
